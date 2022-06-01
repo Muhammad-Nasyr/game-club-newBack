@@ -12,4 +12,4 @@
 
 Ссылка на клиентскую часть: [game-club-front](https://github.com/darrowv/game-club-front)
 
-Цельный проект можно посмотреть на heroku: [](https://github.com/darrowv/game-club-front)
+Цельный проект можно посмотреть на heroku: [gameclubtp.herokuapp.com](https://gameclubtp.herokuapp.com/)
